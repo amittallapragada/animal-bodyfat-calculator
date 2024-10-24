@@ -3,11 +3,11 @@ Find Your Spirit Animal... In Body Fat!
 This app figures out which animal has the most similar body fat percentage to you
 
 
-Live Website: https://animalbodyfatmatch.netlify.app/
-Feature Convo: https://news.ycombinator.com/item?id=41935166
+Live Website: https://animalbodyfatmatch.netlify.app/ \
+Feature Convo: https://news.ycombinator.com/item?id=41935166 \
 sources:
-youtube video: https://www.youtube.com/watch?v=Tjg97JOJyyw&t=12s
-source list from video: https://pastebin.com/3c7bj884
+youtube video: https://www.youtube.com/watch?v=Tjg97JOJyyw&t=12s \
+source list from video: https://pastebin.com/3c7bj884 \
 ## Available Scripts
 
 In the project directory, you can run:
