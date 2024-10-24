@@ -1,7 +1,13 @@
-# Getting Started with Create React App
+# Animal Body Fat Calculator
+Find Your Spirit Animal... In Body Fat!
+This app figures out which animal has the most similar body fat percentage to you
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Live Website: https://animalbodyfatmatch.netlify.app/
+Feature Convo: https://news.ycombinator.com/item?id=41935166
+sources:
+youtube video: https://www.youtube.com/watch?v=Tjg97JOJyyw&t=12s
+source list from video: https://pastebin.com/3c7bj884
 ## Available Scripts
 
 In the project directory, you can run:
